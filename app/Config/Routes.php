@@ -33,7 +33,9 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/login', 'Login::index');
-
+$routes->get('/Admin', 'MahasiswaController::index');
+$routes->post('store', 'MahasiswaController::store');
+$routes->get('delete/(:num)', 'MahasiswaController::delete/$1');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

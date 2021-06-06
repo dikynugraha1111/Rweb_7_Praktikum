@@ -118,7 +118,7 @@
 
         <!-- Nav Item - Tables -->
         <li class="nav-item">
-            <a class="nav-link" href="/Data">
+            <a class="nav-link" href="/MahasiswaController">
                 <i class="fas fa-fw fa-table"></i>
                 <span>Data Siswa</span></a>
         </li>
