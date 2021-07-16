@@ -7,9 +7,10 @@
 <div class="contact" data-contact="<?= session()->getFlashdata('success'); ?>"> </div>
 <div data-aos="fade-up">
     <!-- <iframe style="border:0; width: 100%; height: 400px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe> -->
-    <iframe width="100%" height="400px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDUCFmm0hU12JHwrd-u5LMto2Ur3-Rt8CA
-    &q=SMA+NEGERI+1+MAGETAN" allowfullscreen>
+    <iframe width="100%" height="400px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.5891799325364!2d110.38093251430631!3d-7.833229579985651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x52e3f053bc7c8f7e!2sKampus%204!5e0!3m2!1sid!2sid!4v1625384372640!5m2!1sid!2sid" allowfullscreen>
     </iframe>
+
+
 </div>
 
 
@@ -28,13 +29,13 @@
                     <div class="address">
                         <i class="icofont-google-map"></i>
                         <h4>Location:</h4>
-                        <p>Jl. Monginsidi, Magetan</p>
+                        <p>Jl. RingRoad Selatan</p>
                     </div>
 
                     <div class="email">
                         <i class="icofont-envelope"></i>
                         <h4>Email:</h4>
-                        <p>sman1magetan@sch.id</p>
+                        <p>UAD@ac.id</p>
                     </div>
 
                     <div class="phone">
@@ -83,7 +84,7 @@
 <footer id="footer">
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong><span>ArsipKita2020</span></strong>. All Rights Reserved
+            &copy; Copyright <strong><span>TIF</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->

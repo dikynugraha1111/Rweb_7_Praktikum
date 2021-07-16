@@ -11,22 +11,22 @@
                 <table id="datatable" class="table table-striped table-bordered" style="width:100%">
                     <thead>
                         <tr>
-                            <th>NISN</th>
+                            <th>NIM</th>
                             <th>NAMA</th>
-                            <th>LULUS</th>
-                            <th>LIHAT</th>
+                            <th>PRODI</th>
+
                         </tr>
                     </thead>
                     <tbody>
                         <?php foreach ($siswa as $i) : ?>
                             <tr>
                                 <!-- angka pertama merupakan dari database id, selanjutnya default perulangan -->
-                                <th scope="row"><?= $i['nisn']; ?></th>
-                                <td><?= $i['nama']; ?></td>
+                                <th scope="row"><?= $i['nim']; ?></th>
+                                <td><?= $i['nama_mahasiswa']; ?></td>
                                 <td>
-                                    <?= ($i['lulus'] == '0') ? 'Belum-Lulus' : 'Lulus'; ?>
+                                    <?= $i['prodi']; ?>
                                 </td>
-                                <td><a href="/Siswa/<?= $i['id_data_siswa']; ?>" class="btn btn-success">Detail</a></td>
+
                             </tr>
                         <?php endforeach; ?>
                     </tbody>
@@ -39,7 +39,7 @@
 <footer id="footer">
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong><span>ArsipKita2020</span></strong>. All Rights Reserved
+            &copy; Copyright <strong><span>TIF</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->

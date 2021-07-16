@@ -217,7 +217,7 @@
     </section><!-- End Counts Section -->
 
     <!-- ======= Details Section ======= -->
-    <section id="details" class="details">
+    <!-- <section id="details" class="details">
         <div class="container">
 
             <div class="section-title mt-1 mb-5" data-aos="fade-up">
@@ -313,7 +313,7 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <!-- End Details Section -->
 
@@ -518,9 +518,9 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/tim1.jpeg" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/t1.jpg" class="img-fluid" alt=""></div>
                             <div class="member-info">
-                                <h4>Walter White</h4>
+                                <h4>Ayunita Agustin</h4>
                                 <span>Chief Executive Officer</span>
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
@@ -534,9 +534,9 @@
 
                     <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
                         <div class="member" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="pic"><img src="assets/img/team/tim2.jpeg" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/t2.jpg" class="img-fluid" alt=""></div>
                             <div class="member-info">
-                                <h4>JOMBLO</h4>
+                                <h4>Tia Iklima</h4>
                                 <span>Product Manager</span>
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
@@ -550,9 +550,9 @@
 
                     <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                         <div class="member" data-aos="zoom-in" data-aos-delay="300">
-                            <div class="pic"><img src="assets/img/team/tim3.jpeg" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/t3.jpeg" class="img-fluid" alt=""></div>
                             <div class="member-info">
-                                <h4>William Anderson</h4>
+                                <h4>Diky Nugraha Difiera</h4>
                                 <span>CTO</span>
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
@@ -566,9 +566,9 @@
 
                     <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                         <div class="member" data-aos="zoom-in" data-aos-delay="400">
-                            <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/t4.jpg" class="img-fluid" alt=""></div>
                             <div class="member-info">
-                                <h4>Amanda Jepson</h4>
+                                <h4>Refinalldy Madras</h4>
                                 <span>Accountant</span>
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
@@ -749,13 +749,13 @@
                             <div class="address">
                                 <i class="icofont-google-map"></i>
                                 <h4>Location:</h4>
-                                <p>Jl. Monginsidi, Magetan</p>
+                                <p>Jl RingRoad Selatan</p>
                             </div>
 
                             <div class="email">
                                 <i class="icofont-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>sman1magetan@sch.id</p>
+                                <p>uad@ac.id</p>
                             </div>
 
                             <div class="phone">
@@ -817,10 +817,10 @@
                         <h3>ArsipKita</h3>
                         <p class="pb-3"><em>Dimana data terkumpul dan direkam secara jelas.</em></p>
                         <p>
-                            Jl. Monginsidi No.24<br>
-                            Magetan , 63313<br><br>
-                            <strong>Phone:</strong>(0351)895076<br>
-                            <strong>Email:</strong>sman1magetan@sch.id<br>
+                            Jl. RingRoad Selatan<br>
+                            Yogyakarta <br><br>
+                            <strong>Phone:</strong>08977901651<br>
+                            <strong>Email:</strong>uad.ac.id<br>
                         </p>
                         <!-- <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -836,11 +836,11 @@
                     <h4>Social Media</h4>
                     <ul>
                         <div class="social-links">
-                            <li><a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>@SMAN1MAGETAN</li>
-                            <li><a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>Sman 1 Magetan</li>
-                            <li><a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>@Smasa</li>
+                            <li><a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>UAD</li>
+                            <li><a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>UAD</li>
+                            <li><a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>UAD</li>
                             <li><a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>-</li>
-                            <li><a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>sman 1 magetan</li>
+                            <li><a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>UAD</li>
                         </div>
                     </ul>
                 </div>
@@ -871,7 +871,7 @@
 
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong><span>ArsipKita2020</span></strong>. All Rights Reserved
+            &copy; Copyright <strong><span>TIF</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
